@@ -2,6 +2,10 @@
 
 This project uses [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) to automate the creation of AWS infrastructure using Python.
 
+Boto3 is the official AWS SDK (Software Development Kit) for Python.
+
+It lets Python developers interact with AWS services like EC2, S3, RDS, VPC, Lambda, IAM, and many more — all through code instead of clicking through the AWS Console.
+
 ---
 
 ## 🚀 Features
